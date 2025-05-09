@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula04",
+            "request": "launch",
+            "mainClass": "com.mycompany.Aula04",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Aula05",
+            "request": "launch",
+            "mainClass": "com.mycompany.Aula05",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "com.mycompany.Ex01",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Aula03Operadores",
+            "request": "launch",
+            "mainClass": "com.mycompany.Aula03Operadores",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Aula01",
             "request": "launch",
             "mainClass": "com.mycompany.Aula01",
