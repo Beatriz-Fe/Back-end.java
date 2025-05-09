@@ -14,7 +14,7 @@ public class Aula05 {
          *3° incremento ou decremento
          */
           //Incremento
-     //for(int i = 0; i <= 10 ; i = i +2) {
+     // {for(int i = 0; i <= 10 ; i = i +2)
        //  System.out.println(i);
      //}
 
