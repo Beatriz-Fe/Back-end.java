@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnaliseNumeros",
+            "request": "launch",
+            "mainClass": "com.mycompany.AnaliseNumeros",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "recuperacao",
+            "request": "launch",
+            "mainClass": "com.mycompany.recuperacao",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Aula08Funcoes",
+            "request": "launch",
+            "mainClass": "com.mycompany.Aula08Funcoes",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ex02",
             "request": "launch",
             "mainClass": "com.mycompany.Ex02",
