@@ -16,7 +16,7 @@ public class App {
 
         pessoa2.nome = "Isaac";
         pessoa2.idade = 26;
-        pessoa2.altura = 1.72;
+        pessoa2.altura = 1.75;
 
         pessoa1.exibirDados();
         pessoa2.exibirDados();
