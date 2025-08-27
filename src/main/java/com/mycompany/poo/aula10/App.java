@@ -22,7 +22,7 @@ public class App {
         pessoa2.exibirDados();
 
         pessoa1.atribuirSalario(2000.0, 500);
-        pessoa2.atribuirSalario(4000.0, 800);
+        pessoa2.atribuirSalario(4000.0);
 
         /*System.out.println("--- Dados da pessoa ---");
         System.out.println("Nome: " + pessoa1.nome);
