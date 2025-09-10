@@ -24,11 +24,25 @@ public class Pessoa {
         System.out.println("Chamando o construtor padrão");
     }
 
-    
     public Pessoa(String nome) {
         this.nome = nome;
         System.out.println("Chamando construtor 2");
     }
+
+    public Pessoa (int idade) {
+        this.idade = idade;
+        System.out.println("Construtor 3");
+    }
+
+    public Pessoa(double altura){
+        this.altura = altura;
+        System.out.println("Construtor 4");
+    }
+
+    //Não se pode ter mais de um mesmo parâmetro e tipo
+    //public Pessoa(double peso){
+    //    this.peso = peso;
+    //}
 
     public String getNome() {
         return nome;
