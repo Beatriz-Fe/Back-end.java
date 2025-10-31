@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App2",
+            "request": "launch",
+            "mainClass": "com.mycompany.poo.avaliacao.App2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "App2",
+            "request": "launch",
+            "mainClass": "com.mycompany.poo.aula13.App2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "com.mycompany.poo.aula13.App",
