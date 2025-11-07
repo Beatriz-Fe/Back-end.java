@@ -11,6 +11,6 @@ public class Golfinho extends Animal {
     }
     @Override
     public void mover (String direcao){
-        System.out.println(this.getNome + " está nadando para o " + direcao + "...");
+        System.out.println(this.getNome() + " está nadando para o " + direcao + "...");
     }
 }
